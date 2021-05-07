@@ -1,0 +1,16 @@
+{
+  "site": {
+    "id": "46a05b90-e1a7-4c19-94d6-bed99e383826",
+    "team": "samuelea-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "sparkling-mode-5760"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "build",
+    "image": "fleek/create-react-app",
+    "command": "npm install && npm run build",
+    "rootDir": ""
+  }
+}
